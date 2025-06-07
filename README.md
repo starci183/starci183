@@ -6,9 +6,16 @@ As I began building in Web3, I came to realize something essential:
 
 > **Technology alone isn’t enough — understanding business is just as important.**
 
+But I haven’t lost sight of what brought me here: **cutting-edge technology**.
+
+I care deeply about:
+- ⚙️ Building systems that scale as users grow
+- 🔒 Ensuring strong security from day one
+- 🧼 Writing clean, high-quality, maintainable code
+
 Now, I focus on creating crypto projects that are not only **technically sound**, but also **strategically designed** for real-world impact.
 
-That said, I’m still deeply rooted in **technology**. For us, success means making **both** — code and business — **great**.
+Because in the end, real success means making **both** — the **code** and the **business** — truly great.
 
 ## 📫 Let's Connect
 
