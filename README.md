@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Stacy Nguyen — Crypto Founder
 
-<!--
-**starci183/starci183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’ve always loved **mathematics** — the logic, structure, and problem-solving behind it. That passion naturally led me into the world of **crypto**, where math meets innovation.
 
-Here are some ideas to get you started:
+As I began building in Web3, I came to realize something essential:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Technology alone isn’t enough — understanding business is just as important.**
+
+Now, I focus on creating crypto projects that are not only **technically sound**, but also **strategically designed** for real-world impact.
+
+That said, I’m still deeply rooted in **technology**. For us, success means making **both** — code and business — **great**.
+
+## 📫 Let's Connect
+
+- X: [@yourhandle](https://x.com/mrstacynguyen)
