@@ -20,10 +20,17 @@ Because in the end, real success means making both — the **code** and the **bu
 
 ---
 
-I don’t chase fame.  
-I don’t build hype.  
-I don’t shill.  
-I build.  
+I don’t chase fame.
+I don’t build hype.
+I don’t shill.
+I build.
 
-No fake narratives. No marketing smoke.  
-**Just real tech, real logic, real impact.**
+But I won’t hide either.
+I don’t reject recognition — I just refuse to fake it.
+
+I want real fame, earned through real work.
+I want real hype, born from real results.
+Not noise. Not smoke. Not tricks.
+
+Just code that speaks for itself.
+And a reputation that’s built, not bought.
